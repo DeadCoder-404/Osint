@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.researchgate.net/profile/Javier-Pastor-Galindo/publication/333703698/figure/fig1/AS:768689032949760@1560281155341/OSINT-principal-use-cases.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://t3.ftcdn.net/jpg/20/72/37/44/360_F_2072374431_hELVKwHxcZSwleEFopBnBU1ZhK1cbU6l.png" />
 </div>
 
 ## Run Locally
