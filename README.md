@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://t4.ftcdn.net/jpg/17/46/40/49/240_F_1746404926_nZCYfKCDVAtMByC0vwARipUn0hdod6Pb.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://t4.ftcdn.net/jpg/11/13/33/41/240_F_1113334147_FcIABMuAsy7UwxmNh108vdcHRQ7qOWjO.png" />
 </div>
 
 ## Run Locally
