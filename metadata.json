@@ -1,0 +1,6 @@
+{
+  "name": "OSINT Forensic Investigator",
+  "description": "Professional Open Source Intelligence (OSINT) suite for cross-platform identity verification, social media and public records aggregation, photo metadata analysis, and encrypted case reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_Ai_API"]
+}
